@@ -1,0 +1,9 @@
+<odoo>
+  <record id="property_demo_1" model="real.estate.property">
+    <field name="name">Seaside Villa</field>
+    <field name="description">Luxury villa with ocean view.</field>
+    <field name="price">850000</field>
+    <field name="property_type">sale</field>
+    <field name="status">new</field>
+  </record>
+</odoo>
